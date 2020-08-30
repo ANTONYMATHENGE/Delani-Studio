@@ -59,3 +59,22 @@ input.error {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.about {
+    height: 250px;
+}
+
+.about h1 {
+    margin-top: 30px;
+}
+
+.services h1 {
+    position: relative;
+    top: 30px;
+    margin-bottom: 20px;
+}
+
+.small-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 280px;
+}
