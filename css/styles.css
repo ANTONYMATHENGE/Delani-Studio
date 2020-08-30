@@ -3,3 +3,8 @@
     background-size: cover;
     height: 668px;
 }
+
+.services {
+    background-image: url("../images/backgrounds/s_image.jpg");
+    height: 280px;
+}
