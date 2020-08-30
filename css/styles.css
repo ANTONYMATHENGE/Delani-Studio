@@ -8,3 +8,8 @@
     background-image: url("../images/backgrounds/s_image.jpg");
     height: 280px;
 }
+
+.contacts {
+    background-image: url("../images/backgrounds/c_image.jpg");
+    background-size: cover;
+}
