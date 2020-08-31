@@ -78,3 +78,23 @@ input.error {
     background-color: rgba(0, 0, 0, 0.7);
     height: 280px;
 }
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 668px;
+}
+
+.overlay>img,
+.h-text {
+    position: relative;
+    top: 33%;
+}
+
+.overlay>img,
+.welcome {
+    margin-bottom: 30px;
+}
+
+.click {
+    margin-top: 330px;
+}
